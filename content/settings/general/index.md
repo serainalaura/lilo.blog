@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Lifelong Journey"
+title = "se rainbowsheep"
+description = "...on se way to se moon"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
-footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"	
+footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
