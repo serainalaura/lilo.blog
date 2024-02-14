@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "se rainbowsheep"
-description = "...on se way to se moon"
+title = "Seraina Espinoza Rios"
+description = "me fui de viaje..."
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
