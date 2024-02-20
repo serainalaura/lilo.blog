@@ -10,7 +10,7 @@ Ihr erster Erfolg hatten sie durch einen Song, der auf dem Albumcover einen, von
 
 name verfasserin
 
-![Pit und Migo aus der Musikgruppe FHG bewundern ein Buch mit dem Titel ‘Das magische Auge’ mit optischen Illusionen  ](fhg-reportage.jpg)
+![Pit und Migo aus der Musikgruppe FHG bewundern ein Buch mit dem Titel ‘Das magische Auge’ mit optischen Illusionen  P](fhg-reportage.jpg)
 
 ### In einem Haus unter dem Dach  
 
@@ -44,6 +44,7 @@ Heute gehen die jungen Menschen in den Dachstock, um ihre Lieblingsband FHG zu h
 
 <!--EndFragment-->
 
-```
-hallo info box
+```asp
+info box
+owz ist eine Gruppe, die sich mit der Kunst des Graffiti beschäftigt.
 ```
