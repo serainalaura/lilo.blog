@@ -4,6 +4,7 @@ date = "2024-02-20"
 draft = false
 pinned = false
 image = "fhg-reportage.jpg"
+footnotes = "infobox"
 +++
 Ihr erster Erfolg hatten sie durch einen Song, der auf dem Albumcover einen, von ihnen mit Graffiti besprayten Zug mit der Aufschrift des Songtitels ‘Tätowiert & Vorbestraft’ war.
 
