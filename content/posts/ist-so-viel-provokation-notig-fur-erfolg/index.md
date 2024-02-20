@@ -43,3 +43,7 @@ Die Gründer von FHG haben alle eine verschiedene persönliche Verbindung zu der
 Heute gehen die jungen Menschen in den Dachstock, um ihre Lieblingsband FHG zu hören. 
 
 <!--EndFragment-->
+
+```
+hallo info box
+```
