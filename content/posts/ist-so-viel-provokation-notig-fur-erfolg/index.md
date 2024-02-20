@@ -9,7 +9,7 @@ Ihr erster Erfolg hatten sie durch einen Song, der auf dem Albumcover einen, von
 
 name verfasserin
 
-![](fhg-reportage.jpg)
+![Pit und Migo aus der Musikgruppe FHG bewundern ein Buch mit dem Titel ‘Das magische Auge’ mit optischen Illusionen  ](fhg-reportage.jpg)
 
 In einem Haus unter dem Dach  
 
