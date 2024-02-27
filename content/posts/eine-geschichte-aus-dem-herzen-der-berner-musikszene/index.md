@@ -12,7 +12,7 @@ Die zwei Hip-Hop Rapper Pit und Migo, sitzen im Restaurant «Sous Le Pont» und 
 
 {{</lead>}}
 
-![](fhg-reportage.jpg)
+![Pit und Migo aus der Musikgruppe FHG sind fasziniert von einem Buch mit dem Titel ‘Das magische Auge’ mit optischen Illusionen](fhg-reportage.jpg)
 
 ### In einer Woche ist das 10-jährige Jubiläum von FHG: Wie ist die «Fischermätteli Hood Gang» damals entstanden?
 
