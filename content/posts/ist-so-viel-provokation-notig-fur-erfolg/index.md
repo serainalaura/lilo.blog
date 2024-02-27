@@ -28,11 +28,15 @@ Endlich ist es so weit. Wie jedes Jahr findet der “FHG-Geburtstag” statt. Si
 
 
 
+
+
 ### 
 *Wenn Traum und Realität nicht übereinstimmen…*
 
 
 Das Musikerinnen Leben stellt man sich eigentlich ganz toll vor. Die Künstlerinnen schreiben ein paar Songs, verdienen damit viel Geld und leben ein glamouröses Leben. Migo, der das Gymnasium hinschmiss und Künstler wurde, lebt in der Fantasie seiner Fans vielleicht das ultimative Traumleben. In Wirklichkeit läuft das Ganze allerdings etwas anders ab. Pit und Migo erzählen, dass gerade in der Schweiz ein Leben als Mundartmusiker*in sehr unrealistisch sei, da die Produktion von Songs sehr teuer und der Gewinn daraus nur niedrig ist. „Für uns ist die Freude am Musik machen das Wichtigste. Wenn es uns keinen Spass mehr macht, dann hören wir auf, weil der Aufwand und der finanzielle Gewinn nicht übereinstimmen“, erklären Pit und Migo. Außerdem sind die beiden davon überzeugt, dass die Qualität der Songs um einiges tiefer wäre, hätten sie keine Freude an ihrer Arbeit. Da sie wegen ihrer Musik bekannt sind, haben sie natürlich auch eine gewisse Verantwortung, was sie in ihrer Musik thematisieren. Auf die Frage, was sie heute anders machen würden, erwiderten sie, sie würden gewisse Zeilen aus älteren Songs nicht mehr so schreiben. Ihnen ist wichtig, dass ihre Meinungen heute zum Teil anders sind als früher und sie nicht mehr alle Songtexte zu hundert Prozent vertreten.
+
+
 
 
 
@@ -47,11 +51,17 @@ Neben Songs, die aus lustigen Ideen entstanden sind, haben sie auch viele politi
 
 
 
+
+
+
+
 ### Erfolg bringt nicht nur Glimmer mit sich
 
 
 „Hip-Hopper brüsten sich mit Vandalismus“ Diese Schlagzeile erschien 2015 im Magazin ‚20 Minuten‘. Oder: „Eine Berner Rap-Gruppe missbraucht die Fahrzeuge des öffentlichen Verkehrs als Leinwand und prahlt damit in einem Video“, berichtet der Bund. Das provokative Video zum Song „Tätowiert & Vorbestraft", weckte sogar die Aufmerksamkeit der Kantonspolizei Bern. 
 Als wir Pit und Migo beim Interview fragen, wie die Reaktionen bei ihnen im Umfeld aussahen, erzählt Pit, dass eigentlich alle persönlichen Reaktionen positiv waren, da sie eher in einer Szene unterwegs seien, in der man solche Aktionen toll findet. Allerdings hat das dritte Bandmitglied Iroas kurz nach der Veröffentlichung des Musikvideos, einen alten Klassenkameraden wieder getroffen, der mittlerweile bei der BLS tätig ist. Der fand die Sprayaktion gar nicht lustig und meinte zu Iroas, er solle mal selbst einen Zug putzen, um zu sehen, wie aufwendig das sei. Aber das wurde eher mit viel Humor genommen und heute ist es ein sogenannter ‘Running Gag’ in der Gruppe, dass jemand zu Iroas sagt, er solle mal selbst so einen Zug putzen. 
+
+
 
 
 
@@ -67,6 +77,8 @@ Dann war es endlich so weit, FHG kam auf die Bühne. Sie warfen Zeichnungen, Ess
 
 
 
+
+
 ### «Die Reithalle ist mein zweites Zuhause, ich bin seit meiner Jugend regelmässig hier!»
 
 #### (Zitat Pit)
@@ -75,6 +87,10 @@ Dann war es endlich so weit, FHG kam auf die Bühne. Sie warfen Zeichnungen, Ess
 Die Gründer von FHG haben alle eine unterschiedliche persönliche Verbindung zur Reithalle. So hat zum Beispiel Pit einen Grossteil seiner Jugend auf dem Vorplatz verbracht. Wie Pit und Migo beim Interview erzählen, gingen sie früher in den Dachstock, um zur Musik ihrer Lieblingskünstler*innen abzutanzen. Als später FHG entstand, war es für sie ein grosser Traum, auch einmal im Dachstock auftreten zu können. Heute gehen viele überwiegend junge Menschen in den Dachstock, um ihre Lieblingsband FHG zu hören.
 
 Heute gehen die jungen Menschen in den Dachstock, um ihre Lieblingsband FHG zu hören. 
+
+
+
+
 
 
 
