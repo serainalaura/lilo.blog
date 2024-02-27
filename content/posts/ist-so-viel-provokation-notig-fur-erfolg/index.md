@@ -1,5 +1,5 @@
 +++
-title = "Ist so viel Provokation nötig für Erfolg?"
+title = "Geld oder Gefühl: Der Spagat zwischen Kunst und Kommerz in der Musikwelt"
 date = "2024-02-20"
 draft = false
 pinned = false
@@ -81,6 +81,8 @@ Heute gehen die jungen Menschen in den Dachstock, um ihre Lieblingsband FHG zu h
 {{<box>}}
 
 Was passiert im Musikvideo zu Tätowiert & Vorbestraft
+
+
 Den ersten grosse Erfolg hatte FHG durch einen Song, der auf dem Albumcover einen von ihnen mit Graffiti besprayten BLS Zug mit der Aufschrift des Songtitels ‘Tätowiert & Vorbestraft’ zeigte. Das Musikvideo dazu sorgte in den Medien für viel negative Aufmerksamkeit, denn es zeigt, wie drei anonyme Personen einen BLS-Zug, das Gurtenbähnli und ein Tram besprayen.
 
 {{</box>}}
