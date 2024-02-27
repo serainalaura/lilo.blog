@@ -3,7 +3,7 @@ title = "Geld oder Gefühl: Der Spagat zwischen Kunst und Kommerz in der Musikwe
 date = "2024-02-20"
 draft = false
 pinned = false
-image = "fhg-reportage.jpg"
+image = "sprayen.jpg"
 description = "\n\n\n"
 footnotes = ""
 +++
