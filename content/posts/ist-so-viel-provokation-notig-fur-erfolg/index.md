@@ -7,7 +7,7 @@ image = "fhg-reportage.jpg"
 description = "\n\n\n"
 footnotes = ""
 +++
-Die Schule hinschmeißen und berühmte*rKünstler*\**in werden ist vielleicht der Traum vieler Jugendlichen. Aber ist das wirklich so einfach? Die Musikgruppe FHG, gewährt uns einen kurzen Einblick hinter ihre Kulissen.  
+Die Schule hinschmeißen und berühmte*r Künstler*\**in werden ist vielleicht der Traum vieler Jugendlichen. Aber ist das wirklich so einfach? Die Musikgruppe FHG, gewährt uns einen kurzen Einblick hinter ihre Kulissen.  
 
 Louisa Steiner, Seraina Espinoza Rios
 
