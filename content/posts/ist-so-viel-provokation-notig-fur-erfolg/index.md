@@ -1,6 +1,6 @@
 +++
 title = "Geld oder Gefühl: Der Spagat zwischen Kunst und Kommerz in der Musikwelt"
-date = "2024-02-20"
+date = "2024-02-27"
 draft = false
 pinned = false
 image = "sprayen.jpg"
