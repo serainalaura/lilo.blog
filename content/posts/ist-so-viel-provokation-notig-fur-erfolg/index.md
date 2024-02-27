@@ -4,10 +4,10 @@ date = "2024-02-20"
 draft = false
 pinned = false
 image = "fhg-reportage.jpg"
-description = "Was passiert im Musikvideo zu Tätowiert & Vorbestraft\nDen ersten grosse Erfolg hatte FHG durch einen Song, der auf dem Albumcover einen von ihnen mit Graffiti besprayten BLS Zug mit der Aufschrift des Songtitels ‘Tätowiert & Vorbestraft’ zeigte. Das Musikvideo dazu sorgte in den Medien für viel negative Aufmerksamkeit, denn es zeigt, wie drei anonyme Personen einen BLS-Zug, das Gurtenbähnli und ein Tram besprayen.\n\n\n\n"
+description = "\n\n\n"
 footnotes = ""
 +++
-Die Schule hinschmeißen und berühmte*r* Künstler*\**in werden ist vielleicht der Traum vieler Jugendlichen. Aber ist das wirklich so einfach? Die Musikgruppe FHG, gewährt uns einen kurzen Einblick hinter ihre Kulissen.  
+Die Schule hinschmeißen und berühmte*rKünstler*\**in werden ist vielleicht der Traum vieler Jugendlichen. Aber ist das wirklich so einfach? Die Musikgruppe FHG, gewährt uns einen kurzen Einblick hinter ihre Kulissen.  
 
 Louisa Steiner, Seraina Espinoza Rios
 
