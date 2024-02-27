@@ -40,9 +40,9 @@ Das Musikerinnen Leben stellt man sich eigentlich ganz toll vor. Die Künstlerin
 
 
 ### 
-*„Auch ein dummer Name kann irgendwann cool klingen, wenn die Menschen ihn nur oft genug sagen.“*
+„Auch ein dummer Name kann irgendwann cool klingen, wenn die Menschen ihn nur oft genug sagen.“
 
-#### *(Zitat: Migo)*
+#### (Zitat: Migo)
 
 
 FHG ist ca. 12 Jahre alt und entstand aus einer Idee von vier Musiker, aus dem grösseren Berner Rap Kollektiv “Chaostruppe”. Die anfangs vier Mitglieder Lance Trance, Poul Soul, Frank Punk und Noa Goa waren voller Energie und kreativen Ideen. Um diese Ideen umzusetzen, gründeten sie FHG. Der Name FHG entstand, weil die “Gang” oft im Fischermätteli in Bern zusammen abgehangen hat. Sie legten ihren Namen fest mit der festen Überzeugung, dass man ein Name, der unbekannt und uncool klingt, so oft sagen kann, bis er irgendwann auch cool klingt. Auf die Art und Weise, wie sie den Bandnamen gewählt haben, entstanden und entstehen immer noch viele ihrer Songs. Oft hat jemand eine kuriose Idee, die sie dann meist weiterspinnen und am Schluss entsteht daraus ein hochwertiger cooler Song. Es ist FHG jedoch auch wichtig, dass die Lyrics (die Liedtexte) eine Bedeutung haben. Sie investieren deswegen für den Feinschliff viel Zeit.
