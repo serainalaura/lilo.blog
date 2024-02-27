@@ -30,8 +30,7 @@ Endlich ist es so weit. Wie jedes Jahr findet der “FHG-Geburtstag” statt. Si
 
 
 
-### 
-*Wenn Traum und Realität nicht übereinstimmen…*
+### Wenn Traum und Realität nicht übereinstimmen…
 
 
 Das Musikerinnen Leben stellt man sich eigentlich ganz toll vor. Die Künstlerinnen schreiben ein paar Songs, verdienen damit viel Geld und leben ein glamouröses Leben. Migo, der das Gymnasium hinschmiss und Künstler wurde, lebt in der Fantasie seiner Fans vielleicht das ultimative Traumleben. In Wirklichkeit läuft das Ganze allerdings etwas anders ab. Pit und Migo erzählen, dass gerade in der Schweiz ein Leben als Mundartmusiker*in sehr unrealistisch sei, da die Produktion von Songs sehr teuer und der Gewinn daraus nur niedrig ist. „Für uns ist die Freude am Musik machen das Wichtigste. Wenn es uns keinen Spass mehr macht, dann hören wir auf, weil der Aufwand und der finanzielle Gewinn nicht übereinstimmen“, erklären Pit und Migo. Außerdem sind die beiden davon überzeugt, dass die Qualität der Songs um einiges tiefer wäre, hätten sie keine Freude an ihrer Arbeit. Da sie wegen ihrer Musik bekannt sind, haben sie natürlich auch eine gewisse Verantwortung, was sie in ihrer Musik thematisieren. Auf die Frage, was sie heute anders machen würden, erwiderten sie, sie würden gewisse Zeilen aus älteren Songs nicht mehr so schreiben. Ihnen ist wichtig, dass ihre Meinungen heute zum Teil anders sind als früher und sie nicht mehr alle Songtexte zu hundert Prozent vertreten.
@@ -41,9 +40,9 @@ Das Musikerinnen Leben stellt man sich eigentlich ganz toll vor. Die Künstlerin
 
 
 ### 
-„Auch ein dummer Name kann irgendwann cool klingen, wenn die Menschen ihn nur oft genug sagen.“
+*„Auch ein dummer Name kann irgendwann cool klingen, wenn die Menschen ihn nur oft genug sagen.“*
 
-#### (Zitat: Migo)
+#### *(Zitat: Migo)*
 
 
 FHG ist ca. 12 Jahre alt und entstand aus einer Idee von vier Musiker, aus dem grösseren Berner Rap Kollektiv “Chaostruppe”. Die anfangs vier Mitglieder Lance Trance, Poul Soul, Frank Punk und Noa Goa waren voller Energie und kreativen Ideen. Um diese Ideen umzusetzen, gründeten sie FHG. Der Name FHG entstand, weil die “Gang” oft im Fischermätteli in Bern zusammen abgehangen hat. Sie legten ihren Namen fest mit der festen Überzeugung, dass man ein Name, der unbekannt und uncool klingt, so oft sagen kann, bis er irgendwann auch cool klingt. Auf die Art und Weise, wie sie den Bandnamen gewählt haben, entstanden und entstehen immer noch viele ihrer Songs. Oft hat jemand eine kuriose Idee, die sie dann meist weiterspinnen und am Schluss entsteht daraus ein hochwertiger cooler Song. Es ist FHG jedoch auch wichtig, dass die Lyrics (die Liedtexte) eine Bedeutung haben. Sie investieren deswegen für den Feinschliff viel Zeit.
