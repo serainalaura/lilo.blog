@@ -3,6 +3,7 @@ title = "Matriarchat oder doch nur Emanziaption?"
 date = "2024-10-22"
 draft = false
 pinned = false
+image = "oip-1-.jpg"
 description = ""
 footnotes = "Erörterung zu der Schweizer Frauengeschichte geschrieben von Seraina Laura Espinoza Rios"
 +++
